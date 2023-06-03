@@ -1,1 +1,12 @@
-# fayllar_yaratuvchan_script
+cd Desktop
+mkdir bash_script
+cd bash_script
+mkdir script1
+mkdir script2
+mkdir script3
+mkdir script4
+mkdir script5
+mkdir script6
+mkdir script7
+mkdir script8
+mkdir script9
